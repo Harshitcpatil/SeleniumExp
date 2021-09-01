@@ -21,7 +21,7 @@ public class Initialize {
 		try
 		{
 			path=System.getProperty("user.dir");
-			System.setProperty("webdriver.chrome.driver", "E:\\Selenium Automation\\Automation\\Selenium\\Library\\Driver\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "E:\\CurrentWorkSpace\\SeleniumExp\\Actitime-Prject-Level-01\\Library\\Driver\\chromedriver.exe");
 			System.out.println(path);
 			oBrowser=new ChromeDriver();
 			oBrowser.manage().window().maximize();
