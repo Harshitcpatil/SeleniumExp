@@ -1,0 +1,26 @@
+2021-08-23 19:28:38 INFO  For Loop Output:8 - For Loop Execution Starts here !!!!!
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :20
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :22
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :24
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :26
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :28
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :30
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :32
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :34
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :36
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :38
+2021-08-23 19:28:38 INFO  For Loop Output:12 - Even Number :40
+2021-08-23 19:28:38 INFO  For Loop Output:16 - For Loop Execution ends here !!!!!
+2021-08-23 19:29:33 INFO  For Loop Output:8 - For Loop Execution Starts here !!!!!
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :20
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :22
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :24
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :26
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :28
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :30
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :32
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :34
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :36
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :38
+2021-08-23 19:29:33 ERROR For Loop Output:12 - Even Number :40
+2021-08-23 19:29:33 INFO  For Loop Output:16 - For Loop Execution ends here !!!!!
